@@ -11,8 +11,7 @@ In **2023**, I discovered my passion for **web development** after taking a web-
 
 - 🌍  I'm based in **North Carolina**  
 - ✉️  You can contact me at [jmdonovan0227@gmail.com](mailto:jmdonovan0227@gmail.com)  
-- 🚀  I'm currently working on [Robofriends](https://github.com/jmdonovan0227/robofriends)  
-- 🧠  I'm learning **Redux** and **PWAs**
+- 🚀  I'm currently working on new React/Node Applications!
 
 
 
