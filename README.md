@@ -5,9 +5,9 @@
 
 ---
 ## 🧑🏻 About Me 
-Welcome to my GitHub! I have been passionate about coding for the past **3 years**. My journey started with **Java** in college, where I built my foundation in programming. As I progressed, I explored **C** to better understand lower-level programming concepts.  
+Welcome to my GitHub! I have been passionate about coding for the past **4 years**. My journey started with **Java** in college, where I built my foundation in programming. As I progressed, I explored **C** to better understand lower-level programming concepts.  
 
-In **2023**, I discovered my passion for **web development** after taking a web-focused course in college. Since then, I have been sharpening my skills in both **frontend** and **backend development**, focusing on building secure and scalable full-stack web applications.
+In **2023**, I discovered my passion for **web development** after taking a web-focused course in college. Since then, I have been sharpening my skills in both **frontend** and **backend development**, building secure and scalable full-stack web applications. If you would like to view my project work in Java and C or talk about my experience, please use the contact information below!
 
 - 🌍  I'm based in **North Carolina**  
 - ✉️  You can contact me at [jmdonovan0227@gmail.com](mailto:jmdonovan0227@gmail.com)  
